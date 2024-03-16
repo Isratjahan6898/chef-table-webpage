@@ -3,7 +3,7 @@ import { RiFireLine } from "react-icons/ri";
 import { CiClock1 } from "react-icons/ci";
 
 
-const Food = ({food}) => {
+const Food = ({food, handleAddToFoodCard}) => {
     //console.log(food);
 
     const{recipe_image, recipe_name, short_description, ingredients, preparing_time, calories}= food;
@@ -26,7 +26,7 @@ const Food = ({food}) => {
         <p className="flex"><button><RiFireLine /></button><span>{calories}</span>claories</p>
     </div>
     <div className="card-actions">
-      <button className="rounded-full bg-[#0BE58A] p-[10px] mt-[24px]">Want to cook</button>
+      <button onClick={()=> handleAddToFoodCard(food)} className="rounded-full bg-[#0BE58A] p-[10px] mt-[24px]">Want to cook</button>
     </div>
   </div>
 </div>

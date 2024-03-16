@@ -1,7 +1,7 @@
 
 
 const Ingredient = ({ingredient}) => {
-    console.log(ingredient)
+    //console.log(ingredient)
     return (
         <div>
             <ul className="list-disc">
