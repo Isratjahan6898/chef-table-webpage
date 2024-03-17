@@ -3,7 +3,7 @@
 [
   {
     "recipe_image": "https://i.ibb.co/VByRB2s/pexels-sakina-mammadli-15911841.jpg",
-    "recipe_id": 1,
+    "id": 1,
     "recipe_name": "Grilled Chicken Salad",
     "short_description": "Healthy and delicious salad with grilled chicken breast, mixed greens, and tangy vinaigrette.",
     "ingredients": ["200 g chicken breast", "100 g mixed greens", "50 g cherry tomatoes", "30 g cucumber", "20 g red onion", "30 ml balsamic vinaigrette"],
@@ -12,7 +12,7 @@
   },
   {
     "recipe_image": "https://i.ibb.co/hVd5WC2/pexels-monica-turlui-7218637.jpg",
-    "recipe_id": 2,
+    "id": 2,
     "recipe_name": "Vegetable Quinoa Bowl",
     "short_description": "Nutritious bowl with quinoa, roasted vegetables, and creamy avocado dressing.",
     "ingredients": ["150 g quinoa", "100 g sweet potatoes", "100 g broccoli", "50 g bell peppers", "50 g avocado", "30 ml lime juice"],
@@ -21,7 +21,7 @@
   },
   {
     "recipe_image": "https://i.ibb.co/mbQpsRc/pexels-adrian-vieriu-11654236.jpg",
-    "recipe_id": 3,
+    "id": 3,
     "recipe_name": "Spaghetti Aglio e Olio",
     "short_description": "Simple yet flavorful pasta dish with garlic, olive oil, and chili flakes.",
     "ingredients": ["200 g spaghetti", "4 cloves garlic", "30 ml olive oil", "5 g chili flakes", "10 g parsley", "Salt to taste"],
@@ -30,7 +30,7 @@
   },
   {
     "recipe_image": "https://i.ibb.co/bPgDpZp/pexels-geraud-pfeiffer-6605207.jpg",
-    "recipe_id": 4,
+    "id": 4,
     "recipe_name": "Baked Salmon with Asparagus",
     "short_description": "Healthy and tasty dish featuring baked salmon fillets with roasted asparagus.",
     "ingredients": ["250 g salmon fillets", "200 g asparagus", "30 ml lemon juice", "10 g garlic powder", "Salt and pepper to taste"],
@@ -39,7 +39,7 @@
   },
   {
     "recipe_image": "https://i.ibb.co/H4qS1ZK/pexels-cats-coming-674574.jpg",
-    "recipe_id": 5,
+    "id": 5,
     "recipe_name": "Vegetable Curry",
     "short_description": "Flavorful curry made with mixed vegetables and aromatic spices.",
     "ingredients": ["300 g potatoes", "200 g carrots", "150 g cauliflower", "100 g peas", "50 g coconut milk", "20 g curry powder"],
@@ -48,7 +48,7 @@
   },
   {
     "recipe_image": "https://i.ibb.co/tXmJRT7/pexels-laura-556832.jpg",
-    "recipe_id": 6,
+    "id": 6,
     "recipe_name": "Banana Smoothie",
     "short_description": "Refreshing smoothie made with ripe bananas, yogurt, and honey.",
     "ingredients": ["2 ripe bananas", "200 ml yogurt", "30 ml honey", "Ice cubes as needed"],
